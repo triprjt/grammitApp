@@ -1,0 +1,72 @@
+{
+  "project_info": {
+    "project_number": "986925104003",
+    "firebase_url": "https://grammit-70261-default-rtdb.firebaseio.com",
+    "project_id": "grammit-70261",
+    "storage_bucket": "grammit-70261.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986925104003:android:3319c80dee2c0eb66f54b6",
+        "android_client_info": {
+          "package_name": "club.grammit.grammit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986925104003-5v5diurek6pqfcdkiqg75mg46v0tr7r0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "club.grammit.grammit",
+            "certificate_hash": "4e9fd2c3d93b4a297a7b66cd1042be24fd027283"
+          }
+        },
+        {
+          "client_id": "986925104003-9h4j3iclm1cvc36tg24o305nf9ppdrso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "club.grammit.grammit",
+            "certificate_hash": "830371b7ae965779bf9c01877e09445ea2699b6d"
+          }
+        },
+        {
+          "client_id": "986925104003-j2c3eh067o221pru9ijmb0sf1d0sjtoa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "club.grammit.grammit",
+            "certificate_hash": "c15f0d447ea7b706b0014135ed8e430cfbc1cefd"
+          }
+        },
+        {
+          "client_id": "986925104003-n9aq0tfvtn150fgm9543d5kft3dsq6nk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "club.grammit.grammit",
+            "certificate_hash": "a2e40b42383dafb4fc5401884e0dad1faac3999a"
+          }
+        },
+        {
+          "client_id": "986925104003-0c0348fkorf1c448v1p9plt34jqnnbld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjsE8h513OAqHyuVideWKLgaTtdmRw_Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986925104003-0c0348fkorf1c448v1p9plt34jqnnbld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
