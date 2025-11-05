@@ -21,13 +21,6 @@ Perfect for students, job seekers, and anyone preparing for technical interviews
 - **Topic-wise Modules** – Arrays, Linked Lists, Trees, Graphs, DP, and more  
 - **Leaderboard** – Compete with friends  
 - **Streak System** – Stay consistent, get bonuses  
-
----
-
-## Screenshots
-
-*(Coming soon – add your app screenshots here!)*
-
 ---
 
 ## Getting Started
